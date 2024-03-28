@@ -5,7 +5,7 @@ Sports-dayは、学校行事である球技大会の運営と進行管理をデ�
 従来の紙ベースのアナログな管理方法から脱却し、試合の進行状況をリアルタイムで確認できるデジタルプラットフォームを提供します。
 
 <p align="center">
-  <img src="./readme_workflow.svg" width='800'>
+  <img src="https://github.com/Sports-day/.github/assets/58895178/4a461612-8530-4f17-9b06-87458f4d3341" width='800'>
 </p>
 
 ## 強み
