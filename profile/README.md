@@ -28,7 +28,7 @@ Webアプリケーションを利用することで、試合の進行状況を�
 ---
 
 <p align="center">
-  <img src="https://github.com/Sports-day/.github/assets/58895178/5ce09296-31f5-4ca6-aa26-1b07ede46400" width='800'>
+  <img src="https://github.com/Sports-day/.github/assets/58895178/4aa5b3d6-faea-405b-8328-7660cdb8254b" width='800'>
 </p>
 
 ## フロントエンド
