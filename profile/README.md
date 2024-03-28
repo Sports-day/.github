@@ -22,7 +22,7 @@ Webアプリケーションを利用することで、試合の進行状況を�
 ### 3. 圧倒的な見やすさ
 シンプルで使いやすいデザインを採用し、誰でも直感的に操作できます。
 <p align="left">
-  <img src=https://github.com/Sports-day/.github/assets/58895178/e769d234-8ae4-4d9a-9ae2-1a1b655957c9" width='800'>
+  <img src="https://github.com/Sports-day/.github/assets/58895178/e769d234-8ae4-4d9a-9ae2-1a1b655957c9" width='800'>
 </p>
 
 
