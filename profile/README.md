@@ -14,21 +14,26 @@ Webアプリケーションを利用することで、試合の進行状況を�
 
 ### 2. ヒュマンエラーを最小限に抑える
 紙ベースのアナログな管理方法から脱却し、ヒュマンエラーを最小限に抑えます。
-<p align="left">
+<p align="center">
   <img src="https://github.com/Sports-day/.github/assets/58895178/268dc73c-3be0-4b29-b945-ef64a8fa9ceb" width='800'>
 </p>
 
 
 ### 3. 圧倒的な見やすさ
 シンプルで使いやすいデザインを採用し、誰でも直感的に操作できます。
-<p align="left">
+<p align="center">
   <img src="https://github.com/Sports-day/.github/assets/58895178/e769d234-8ae4-4d9a-9ae2-1a1b655957c9" width='800'>
 </p>
 
+---
+
+<p align="center">
+  <img src="./flow.svg" width='800'>
+</p>
 
 ## フロントエンド
-
-[sports-day-panel](https://github.com/Sports-day/sports-day-panel)
+[sports-day-panel](https://github.com/Sports-day/sports-day-panel) </br>
+[sports-day-form](https://github.com/Sports-day/sports-day-form)
 
 TypeScript, Next.js, Material-UI, Framer Motion で構成されています。
 
