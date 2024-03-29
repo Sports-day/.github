@@ -32,19 +32,23 @@ Webアプリケーションを利用することで、試合の進行状況を�
 </p>
 
 ## フロントエンド
-[sports-day-panel](https://github.com/Sports-day/sports-day-panel) </br>
-[sports-day-form](https://github.com/Sports-day/sports-day-form)
-
 TypeScript, Next.js, Material-UI, Framer Motion で構成されています。
+
+[sports-day-panel](https://github.com/Sports-day/sports-day-panel)　</br>
+点数入力などの管理機能と大会の状況を一覧する機能を有する大会進行用のアプリケーション 
+
+
+[sports-day-form](https://github.com/Sports-day/sports-day-form)　</br>
+参加者やチームを登録し、データベースに保存するためのアプリケーション
+
+
 
 ## バックエンド
 
-[SportsDayAPI](https://github.com/Sports-day/SportsDayAPI)
-
+[SportsDayAPI](https://github.com/Sports-day/SportsDayAPI) </br>
 Kotlin, Ktor, MySQL, Redis で構成されています。
 
 ## インフラストラクチャ
 
-[infra](https://github.com/Sports-day/infra)
-
+[infra](https://github.com/Sports-day/infra) </br>
 Kubernetes を利用してデプロイしています。
