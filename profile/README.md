@@ -41,14 +41,16 @@ TypeScript, Next.js, Material-UI, Framer Motion で構成されています。
 [sports-day-form](https://github.com/Sports-day/sports-day-form)　</br>
 参加者やチームを登録し、データベースに保存するためのアプリケーション
 
-
+[sports-day-admin](https://github.com/Sports-day/sports-day-admin)　</br>
+全ての管理機能を有するアプリケーション
 
 ## バックエンド
 
 [SportsDayAPI](https://github.com/Sports-day/SportsDayAPI) </br>
+認証からユーザー等のリソースの管理・配信を行う RESTful API </br>
 Kotlin, Ktor, MySQL, Redis で構成されています。
 
 ## インフラストラクチャ
 
 [infra](https://github.com/Sports-day/infra) </br>
-Kubernetes を利用してデプロイしています。
+Sports-day をデプロイするための Kubernetes マニュフェスト管理レポジトリ
