@@ -27,9 +27,10 @@ Webアプリケーションを利用することで、試合の進行状況を�
 ### 3. 圧倒的な見やすさ
 シンプルで使いやすいデザインを採用し、誰でも直感的に操作できます。
 <p align="center">
-  <img src="https://github.com/Sports-day/.github/assets/58895178/4185b56d-abcf-43dd-8b03-383b691544eb" width='800'>
+  <img src="https://github.com/user-attachments/assets/68c9d6c4-770c-4094-b976-db0a75cf18d5" width='800'>
 </p>
 <p align="center">SPORTSDAY Admin (進行管理アプリケーション)</p>
+
 
 ---
 
